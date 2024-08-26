@@ -1,0 +1,36 @@
+
+pd {
+    text-align: center;
+    
+}
+pl {
+    
+}
+.container {
+    display: flex;
+    gap: 10px; 
+}
+
+.column {
+    flex: 1; 
+    height: 1000px;
+    width: 50px;
+    border: 2px solid #000;
+    box-sizing: border-box; 
+}
+div.verde{
+    border: 1px solid black;
+    background-color: lime;
+    margin-top: 10px;
+    height: 100px;
+    width: 100px;
+    
+}
+div.vermelho{ 
+    border: 1px solid black;
+    margin-top: 10px;
+    background-color: red;
+    height: 100px;
+    width: 100px;}
+
+
